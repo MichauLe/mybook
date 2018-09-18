@@ -1,3 +1,4 @@
 tekst1 
 tekst1.5 
 tekst1.8 
+zmiany w master 
